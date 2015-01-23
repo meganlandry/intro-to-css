@@ -1,11 +1,22 @@
 html {
 	background-color: #ff7cc0;
+	color: #fff;
 }
 
-color: #fff;
-}
+
+
 
 h1 {
-color: #f55;
-font-weight: normal;
+	color: #f55;
+	font-family: ‘Metrophobic’, Arial, serif; font-weight: 400;
+	font-weight: normal;
+	font-size: 5rem;
+	line-height: 1;
+	text-shadow: 2px -5px 10px black;
+}
+
+
+p {font-style: italic;
+	text-align: center;
+	font-family: Arial, sans-serif;
 }
